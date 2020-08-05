@@ -4,9 +4,9 @@ typora + github, Assistant of Sync and the method of how to use it
 
 **Note that you must protect your account and password. **
 
-
-
-typora + github,同步小助手及使用方法
+  =================================================================
+  
+ typora + github,同步小助手及使用方法
 
 **注意一定要保护好自己的账号密码**
 
@@ -38,9 +38,9 @@ File  ==> Preferences ==> Image ==>
 - [x] Apply above rules to local images /
 - [x] Use relative path if possible
 
-
-
-如果你想把MD文件中的图片也存到github上（你肯定想的）
+  =================================================================
+ 
+ 如果你想把MD文件中的图片也存到github上（你肯定想的）
 
 你需要把存图片的地址改为相对地址。
 
@@ -70,8 +70,12 @@ File  ==> Preferences ==> Image ==>
 
 5. run it
 
+   ```
+   ./commit_push.sh 
+   ```
    
-
+  =================================================================
+ 
 1.创建一个用来存typora的MD文件的仓库
 
 2.将其克隆到本地
